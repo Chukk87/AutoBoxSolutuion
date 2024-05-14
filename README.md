@@ -1,4 +1,3 @@
-# TutorialBot
+# PeakBot
 
-to be updated
-
+Discord bot testing examples backup
